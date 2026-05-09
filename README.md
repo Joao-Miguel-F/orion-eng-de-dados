@@ -8,6 +8,7 @@
 - Larissa Lima
 - Lucas Lima
 - Vinicius Pazos
+- Gabriel Garcia
 
 ## Sobre o projeto
 
