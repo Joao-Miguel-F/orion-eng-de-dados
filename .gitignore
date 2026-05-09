@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environment
+venv/
+.venv/
+
+# Dados brutos e processados (nao versionar dados)
+data/raw/
+data/processed/
+
+# Variaveis de ambiente e segredos
+.env
+*.env
+
+# Prefect
+.prefect/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
