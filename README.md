@@ -310,6 +310,10 @@ Este projeto adota as seguintes práticas de Engenharia de Dados:
 - configuração externa por variáveis de ambiente;
 - teste automatizado da transformação.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 578e7e57e582c42383d9e7562341d13b4c8c3626
 ---
 
 ## Melhorias futuras
@@ -322,6 +326,7 @@ Este projeto adota as seguintes práticas de Engenharia de Dados:
 
 ---
 
+<<<<<<< HEAD
 ## Orquestração com Prefect e Spark
 
 Este repositório também contém uma extensão do pipeline com orquestração avançada, processamento distribuído e monitoramento de execução.
@@ -330,6 +335,8 @@ Este repositório também contém uma extensão do pipeline com orquestração a
 
 ---
 
+=======
+>>>>>>> 578e7e57e582c42383d9e7562341d13b4c8c3626
 ## Conclusão
 
 O Orion entrega uma solução ETL modular para dados do PNCP, alinhada aos requisitos da disciplina de Engenharia de Dados. O projeto demonstra a aplicação de conceitos como arquitetura em camadas, orientação a objetos, validação, documentação e persistência em banco NoSQL na nuvem.
